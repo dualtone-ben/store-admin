@@ -10,6 +10,7 @@ import { defineConfig } from "vite"
 dns.setDefaultResultOrder("verbatim")
 
 export default defineConfig({
+  server: true,
   plugins: [react()],
   test: {
     environment: "jsdom",
