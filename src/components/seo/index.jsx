@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 const site = {
   siteMetadata: {
     title: `Management`,
-    description: `Dualtone Management Platform for Ecommerce`,
+    description: `DTX Management Platform for Ecommerce`,
     author: `@medusajs`,
   },
 }
